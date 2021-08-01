@@ -31,6 +31,6 @@
     </div>
     <br>
     <hr>
-    ![Snake animation](https://github.com/LeticiaAmericano/LeticiaAmericanoLeticiaAmericano/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/LeticiaAmericano/LeticiaAmericano/blob/output/github-contribution-grid-snake.svg)
   </body>
 </html>
