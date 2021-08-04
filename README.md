@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <div align = "adcenter">
+    <div align = "center">
       <h2>Olá, sou a Letícia Americano! ✨</h2>
       <br>
       <p>- 🖥️: Atualmente, estou aprendendo Javascript. -</p>
