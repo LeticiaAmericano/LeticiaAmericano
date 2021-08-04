@@ -2,13 +2,16 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
   </head>
   <body>
-    <h3>Olá, sou a Letícia Americano! ✨</h3>
-    <p>- 🖥️: Atualmente, estou aprendendo Javascript.</p>
-    <p>- 🌟: Curiosidade, adoro música e dança.</p>
-    <p>- <img align="center" alt="Discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> : Infinity#9473</p>
+    <div align = "adcenter">
+      <h2>Olá, sou a Letícia Americano! ✨</h2>
+      <br>
+      <p>- 🖥️: Atualmente, estou aprendendo Javascript. -</p>
+      <p>- 🌟: Curiosidade, adoro música e dança. -</p>
+      <p>- <img alt="Discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> : Infinity#9473 -</p>
+    </div>
+    <br>
     <div align="center">
       <a href="https://github.com/LeticiaAmericano">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaAmericano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
@@ -29,9 +32,8 @@
       <a href="https://www.instagram.com/lettyamericano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/let%C3%ADcia-americano-lucas-2187541b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
-    <br>
-    <hr>
-    ![Snake animation](https://github.com/LeticiaAmericano/LeticiaAmericano/blob/output/github-contribution-grid-snake.svg)
+    <br> <hr>
   </body>
 </html>
 
+![Snake animation](https://github.com/LeticiaAmericano/LeticiaAmericano/blob/output/github-contribution-grid-snake.svg)
