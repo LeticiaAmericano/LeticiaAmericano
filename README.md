@@ -6,7 +6,6 @@
   <body>
     <div align = "center">
       <h2>Olá, sou a Letícia Americano! ✨</h2>
-      <br>
       <p>- 🖥️: Atualmente, estou aprendendo Javascript. -</p>
       <p>- 🌟: Curiosidade, adoro música e dança. -</p>
       <p>- <img alt="Discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> : Infinity#9473 -</p>
